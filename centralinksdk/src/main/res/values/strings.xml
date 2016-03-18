@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CentralinkSDK</string>
+    <string name="centralink">Centralink</string>
+    <string name="siterwell">Siterwell</string>
+    <string name="add_your_account">Add your account</string>
+    <string name="new_user_question_mark"><u>New user?</u></string>
+    <string name="login_failed_message">Login failed. Please confirm your username and password.</string>
+    <string name="cancel">Cancel</string>
+    <string name="gps_network_not_enabled">GPS Network is not enabled</string>
+    <string name="open_location_settings">Open location settings</string>
+    <string name="db_pathname">/sdcard/rule_db</string>
+    <string name="title_activity_rule">Rule editor</string>
+</resources>
